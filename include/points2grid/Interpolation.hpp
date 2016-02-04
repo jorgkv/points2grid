@@ -96,7 +96,7 @@ public:
 
     // update this to the maximum grid that will fit in memory
     // as a rule of thumb, memory requirement = MEM_LIMIT*55 bytes
-    static const unsigned int MEM_LIMIT = 200000000;
+    static const unsigned int MEM_LIMIT = 146087200;
 
 private:
     double min_x;
